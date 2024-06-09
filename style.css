@@ -1,0 +1,33 @@
+/*Variables and mixins*/
+/*styling*/
+* {
+  background-color: #d7b693;
+  box-sizing: border-box;
+  font-family: Futura;
+  text-align: center;
+}
+
+header {
+  font-size: 40px;
+  color: sienna;
+}
+
+div {
+  border: 3px solid olive;
+  padding: 5px 10px;
+  margin-bottom: 30px;
+  border-radius: 25px;
+}
+
+img {
+  width: 150px;
+}
+
+a {
+  align-items: end;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=style.css.map */
